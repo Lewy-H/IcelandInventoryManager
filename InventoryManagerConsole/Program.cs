@@ -43,6 +43,7 @@ namespace InventoryManagerConsole
                 else
                     Console.WriteLine("NO SUCH ITEM");
             }
+            Console.ReadKey();
         }
     }
 }
